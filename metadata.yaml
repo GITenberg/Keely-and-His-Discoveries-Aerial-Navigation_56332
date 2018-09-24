@@ -1,11 +1,16 @@
 _repo: Keely-and-His-Discoveries-Aerial-Navigation_56332
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56332-h/images/new-cover-tn.jpg
 creator:
   author:
     agent_name: Moore, Clara Sophia Jessup Bloomfield
     gutenberg_agent_id: '48788'
     url: http://www.gutenberg.org/2009/agents/48788
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56332#Keely-and-His-Discoveries-Aerial-Navigation
 gutenberg_issued: '2018-01-07'
 gutenberg_type: Text
 identifiers:
